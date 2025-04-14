@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Class,Section,Marks,Email
+S001,John Doe,15,Male,10,A,85,john.doe@example.com
+S002,Emma Smith,14,Female,9,B,90,emma.smith@example.com
+S003,Liam Johnson,16,Male,11,C,78,liam.johnson@example.com
+S004,Olivia Brown,15,Female,10,A,92,olivia.brown@example.com
+S005,Noah Davis,14,Male,9,B,88,noah.davis@example.com
+S006,Ava Wilson,16,Female,11,C,95,ava.wilson@example.com
+S007,William Martinez,15,Male,10,A,80,william.martinez@example.com
+S008,Sophia Anderson,14,Female,9,B,85,sophia.anderson@example.com
+S009,James Thomas,16,Male,11,C,89,james.thomas@example.com
+S010,Mia White,15,Female,10,A,87,mia.white@example.com
