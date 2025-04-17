@@ -1,0 +1,1 @@
+# PS D:\PYTHON\Python_practice\CodeWithHarry\Chapter13>  pip freeze > requiredment.txt 
